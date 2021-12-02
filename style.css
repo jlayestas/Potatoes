@@ -1,0 +1,11 @@
+.banner {
+    background-color: rgb(89, 196, 196);
+    color: black;
+    margin-top: 75px;
+    text-align: center;
+    padding: 10% 0;
+}
+
+.bold {
+    font-weight: 900;
+}
